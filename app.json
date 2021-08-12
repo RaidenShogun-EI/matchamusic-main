@@ -1,0 +1,7 @@
+{
+  "name": "Matcha Music",
+  "description": "🍵 Discord Music Bot built with discord.js",
+  "repository": "https://github.com/thanhxuan8901/matchamusic",
+  "logo": "https://imgur.com/gallery/QImPE",
+  "keywords": ["discord", "discordjs", "music", "bot"]
+}
